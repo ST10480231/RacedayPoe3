@@ -1,0 +1,21 @@
+# Build results
+bin/
+obj/
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Debug files
+*.pdb
+*.cache
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Video files
+*.mp4
+*.mov
+*.avi
